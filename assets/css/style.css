@@ -24631,3 +24631,18 @@ xclip
 .header__sticky.fixed a.navigation__menu--item__link.rts-theme-btn.btn-arrow {
   padding: 12px;
 }
+
+@media(max-width: 600px) {
+  .mobile-menu-main nav ul li a {
+    padding: 8px;
+}
+
+.mobile-menu-main nav ul li a.rts-theme-btn.btn-arrow {
+    text-align: center;
+    color: #fff !important;
+}
+
+.col-20.col-md-6.col-sm-6 {
+    width: 100%;
+}
+}
