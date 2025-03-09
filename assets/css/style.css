@@ -24625,3 +24625,9 @@ xclip
   top: 0;
 }
 /*# sourceMappingURL=../maps/style.css.map */
+.header__sticky.fixed a.navigation__menu--item__link.rts-theme-btn.btn-arrow {
+    color: #fff;
+}
+.header__sticky.fixed a.navigation__menu--item__link.rts-theme-btn.btn-arrow {
+  padding: 12px;
+}
