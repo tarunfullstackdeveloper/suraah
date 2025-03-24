@@ -24657,6 +24657,9 @@ xclip
 .single-item__content, .single-item {
   height: 100%;
 }
+.side-bar .inner-main-wrapper-desk .thumbnail img {
+  filter: none !important;
+}
 @media(max-width: 600px) {
   .mobile-menu-main nav ul li a {
     padding: 8px;
