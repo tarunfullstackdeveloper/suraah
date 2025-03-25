@@ -24707,8 +24707,11 @@ xclip
     padding: 0 0px;
     display: block;
   }
-  .rts__single--member--thumb a, .rts__single--member--thumb a img {height: 100%;display: block !important;!i;!;min-height: 100%;}
+  .rts__single--member--thumb a, .rts__single--member--thumb a img {height: 100%;display: block !important;min-height: 100%;}
   .col-20.col-md-6.col-sm-6 {
     width: 100%;
+  }
+  .rts-history-image {
+    height: 100%;
   }
 }
