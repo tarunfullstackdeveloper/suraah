@@ -24666,14 +24666,49 @@ xclip
 @media(max-width: 600px) {
   .mobile-menu-main nav ul li a {
     padding: 8px;
-}
+  }
 
-.mobile-menu-main nav ul li a.rts-theme-btn.btn-arrow {
+  .mobile-menu-main nav ul li a.rts-theme-btn.btn-arrow {
     text-align: center;
     color: #fff !important;
-}
+  }
+  div#menu-btn img {
+  filter: brightness(10) invert(1);
+  }
 
-.col-20.col-md-6.col-sm-6 {
+  .about.v__2 .about__right--content--vision .mision, .about.v__2 .about__right--content--vision .vision {
+  width: 100% !important;
+  }
+  .rts-funfact-wrapper {
+    gap: 0px !important;
+  }
+  .bottom-text.rt-clip-text {
+    display: none;
+  }
+  .mobile-menu-main nav ul {
+    padding: 0 0px;
+    display: block;
+  }
+  .rts-campus.pt--100.rts-campus-bg.mobile-padding.moving {
+    padding-bottom: 0px;
+  }
+  .about__images--wrapper--center {
+    display: none;
+  }
+  .stroke__text.v__1 {
+    font-size: 70px;
+  }
+  .rts__single--member--thumb {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto 20px;
+  }
+  .mobile-menu-main nav ul {
+    padding: 0 0px;
+    display: block;
+  }
+  .rts__single--member--thumb a, .rts__single--member--thumb a img {height: 100%;display: block !important;!i;!;min-height: 100%;}
+  .col-20.col-md-6.col-sm-6 {
     width: 100%;
-}
+  }
 }
